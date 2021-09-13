@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OmarJoya
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning new Jetpack libraries
+- 📫 How to reach me ... ojoyar@gmail.com
